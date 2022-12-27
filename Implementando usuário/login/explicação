@@ -1,0 +1,2 @@
+Fazendo o login do usuário será disponibilizado um access_token, significa que o usuário está logado no sistema, iremos usar para criar hoteis.
+Colocando no Headers uma Authorization e na parte VALUE um Bearer + access_token.
