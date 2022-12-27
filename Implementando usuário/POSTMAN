@@ -1,0 +1,3 @@
+No POSTMAN, será necessário colocar na parte do CADASTRO e LOGIN do usuário, o Headers com Content-Type e application-json.
+
+Quando for feito o LOGIN do usuário será disponibilizado um token de acesso, no qual iremos usar para ter acesso aos hoteis criados e quando formos criar e deletar.
