@@ -49,3 +49,5 @@
 ##### pip install Flask-JWT-Extended
 
 ### Com o Postman aberto, deverá ser criado uma nova coleção (Collections), com as seguintes requisições:
+
+![2023-01-19](https://user-images.githubusercontent.com/106549261/213521222-63e92e2d-e608-41b8-ae54-a73fd002d2bf.png)
