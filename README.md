@@ -17,11 +17,12 @@
 ## Com o seu Ambiente Virtual ativo, faça a instalação do:
 
 ### -Flask -2.2.2 -> versão utilizada
-### -Flask-SQLAlchemy -3.0.2 -> versão utilizada
-### -SQLAlchemy -1.4.45 -> versão utilizada
-
 ##### pip install Flask
+
+### -Flask-SQLAlchemy -3.0.2 -> versão utilizada
 ##### pip install Flask-SQLAlchemy
+
+### -SQLAlchemy -1.4.45 -> versão utilizada
 
 #### Com a instalação do Flask-SQLAlchemy, automaticamente será instalado o SQLAlchemy 
 
